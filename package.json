@@ -1,0 +1,11 @@
+{
+  "name": "format-call",
+  "version": "0.0.0",
+  "description": "Format a function call nicely",
+  "repository": "micnews/format-call",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "pad-component": "0.0.1"
+  }
+}
