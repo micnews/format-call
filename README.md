@@ -41,7 +41,7 @@ $ npm install format-call
   - `args` array of arguments
   - `type` optional return type
 
-  Conventions are applied to format `args` nicely:
+Conventions are applied to format `args` nicely:
 
   - callbacks are removed
   - option / value objects are displayed _nicely_
